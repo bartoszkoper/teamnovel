@@ -1,0 +1,78 @@
+html {
+   font-family: 'Source Sans Pro', sans-serif!important;
+}
+
+body {
+    background-color:  #95c2bd;
+     display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+li {
+    padding: 5px
+}
+
+body label {
+    color:#132A27;
+    font-size: 1.5em
+}
+
+body form {
+    text-decoration-color: #002c27;
+}
+
+main {
+    flex: 1 0 auto;
+  }
+
+.form_class {
+    color: #27544F
+}
+
+.collection-item {
+    background-color: #9DD2CE
+}
+
+.page-footer {
+    background-color: #27544F
+}
+
+.instruction {
+   padding: 1%;
+}
+
+#background_nav {
+     background-color: #27544F
+}
+#slide-out {
+    background-color:  #8bb8b3
+}
+
+#id_current_user {
+    display: block;
+}
+
+#count {
+    margin-top:2%
+}
+
+#paragraph_novel {
+    margin-top:3%
+}
+
+.team_view_h3 {
+    margin-top: 5%
+}
+
+#current_novels {
+    position:absolute;
+    top:15%;
+    right:2%;
+    border: dashed black;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    padding-right: 2%;
+    padding-left: 2%;
+
+}
